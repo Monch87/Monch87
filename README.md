@@ -13,11 +13,18 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 
+
+
+
+
+
+
 <!--
 **Monch87/Monch87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+## Find me around the web :earth_americas::
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
