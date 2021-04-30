@@ -1,7 +1,4 @@
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/72262776/116722701-06187780-a9df-11eb-85f4-d651eaa75acd.gif)
-
-
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/72262776/116725241-f4849f00-a9e1-11eb-987d-4c5908bac6b8.gif)
 
 
 ## Hi Everybody! I'm Montse! 👋 :woman_technologist:
