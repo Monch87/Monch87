@@ -1,8 +1,8 @@
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/72262776/116718512-53deb100-a9da-11eb-8669-a14176ef7de6.gif)
+
+
+
 ## Hi Everybody! I'm Montse! 👋 :woman_technologist:
-
-
-
-
 I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Thanks to my experience in marketing and design in digital environments and in customer habits and behavior, I am able to make a complementary professional contribution in my performance as web development.
 
 
