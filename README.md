@@ -2,14 +2,14 @@
 
 
 
-## Hi Everybody! I'm Montse! 👋 :woman_technologist:
+## Hi Everybody! 👋  I'm Montse! :woman_technologist:
 I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Thanks to my experience in marketing and design in digital environments and in customer habits and behavior, I am able to make a complementary professional contribution in my performance as web development.
 
 
 
-- :atom: <b> My favourite Technoligies:</b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap
-- 🔭 I’m currently working on: improving some of my already created projects.
-- 🌱 I’m currently learning: React | JavaScript | Sass | React Bootstrap.
+- :atom: My favourite Technoligies: <b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
+- :computer: I’m currently working on: improving some of my already created projects.
+- :woman_student: I’m currently learning: React | JavaScript | Sass | React Bootstrap.
 
 
 
