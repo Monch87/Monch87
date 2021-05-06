@@ -7,7 +7,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 
-- :atom: My favourite Technoligies: <b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
+- :atom: My favourite Technologies: <b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 - :computer: I’m currently working on: improving some of my already created projects.
 - :woman_student: I’m currently learning: React | JavaScript | Sass | React Bootstrap.
 
