@@ -32,7 +32,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </a>
 
 <a>
-  <img alt="BOOTSTRAP" width="80px" src="https://www.pngwing.com/es/free-png-yfqer" />
+  <img alt="BOOTSTRAP" width="80px" src="https://www.pngkey.com/maxpic/u2t4i1w7w7o0t4y3/" />
 </a>
 
 </div>
