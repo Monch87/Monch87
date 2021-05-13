@@ -31,13 +31,9 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <a>
   <img alt="REACT" width="55px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
   </a>
-  
-<!--
-  <img alt="BOOTSTRAP" width="70px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
-  </a>](url)
-  -->
+
   <a>
-  <img alt="BOOTSTRAP" width="70px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
+  <img alt="BOOTSTRAP" width="60px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
   </a>
   
   <a>
