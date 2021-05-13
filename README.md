@@ -51,10 +51,10 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <img alt="VCODE" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
 </a>
 <a>
-  <img alt="POSTMAN" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+  <img alt="POSTMAN" width="80px" src="https://colewbryant.com/img/technologies/postman.png" />
 </a>
 <a>
-  <img alt="GITHUB" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+  <img alt="GITHUB" width="80px" src="https://colewbryant.com/img/technologies/github.png" />
 </a>
 
 
