@@ -37,7 +37,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="BOOTSTRAP" width="170px" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" />
+  <img alt="BOOTSTRAP" width="140px" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" />
   </a>
   
   <a>
