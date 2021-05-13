@@ -13,7 +13,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 ## My favourite technologies:
 <div display="flex" align="center" >
-  <b text-align="center"> HTML | CSS | JavaScript | React | Bootstrap | Node </b> 
+  <b text-align="center"> HTML | CSS | JavaScript | React | Bootstrap | Node JS </b> 
   <br>
   
   <a>
@@ -34,6 +34,10 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   
   <a>
   <img alt="BOOTSTRAP" width="70px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+  </a>
+  
+    <a>
+  <img alt="BOOTSTRAP" width="70px" src="https://miro.medium.com/max/800/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg" />
   </a>
   
   <a>
