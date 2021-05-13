@@ -12,7 +12,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 ## My favourite technologies:
-<b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
+<b align="center"> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 
 <div display="flex" align="center" >
 <a>
@@ -32,7 +32,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </a>
 
 <a>
-  <img alt="BOOTSTRAP" width="80px" src="https://www.pinpng.com/pngs/m/133-1334709_more-free-bootstrap-png-images-bootstrap-logo-vector.png" />
+  <img alt="BOOTSTRAP" width="80px" src="https://nedrickportfolio.com/img/bootstrap.png" />
 </a>
 
 </div>
