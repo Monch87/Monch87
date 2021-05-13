@@ -15,6 +15,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 <div display="flex" align="center" >
   <b text-align="center"> HTML | CSS | JavaScript | React | Bootstrap </b> 
   <br>
+  
   <a>
   <img alt="HTML" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" />
   </a>
@@ -37,9 +38,10 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </div>
 
 ## Other knowledge:
-<b align="center"> Postman | V-Code | Github | Bulma | Sass | Mongo DB </b> 
-
  <div display="flex" align="center" >
+  <b text-align="center"> Postman | V-Code | Github | Bulma | Sass | Mongo DB </b> 
+  <br>
+  
   <a>
     <img alt="POSTMAN" width="60px" src="https://colewbryant.com/img/technologies/postman.png" />
   </a>
