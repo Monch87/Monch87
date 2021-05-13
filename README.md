@@ -47,7 +47,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 ## Other knowledge:
  <div display="flex" align="center" >
-  <b text-align="center"> Postman | V-Code | Github | Bulma | Sass | Mongo DB </b> 
+  <b text-align="center"> Postman | V-Code | Github | Bulma | Mongo DB | Sass </b> 
   <br>
   
   <a>
@@ -67,11 +67,11 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </a>
 
 <a>
-  <img alt="SASS" width="60px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+  <img alt="MONGODB" width="60px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
 </a>
 
 <a>
-  <img alt="MONGODB" width="60px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
+  <img alt="SASS" width="60px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
 </a>
 </div>
 
