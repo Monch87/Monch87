@@ -65,7 +65,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </a>
 
 <a>
-  <img alt="MONGODB" width="80px" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png />
+  <img alt="MONGODB" width="80px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
 </a>
 </div>
 
