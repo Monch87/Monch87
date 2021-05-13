@@ -16,27 +16,23 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 <div display="flex" align="center" >
   <a>
-  <img alt="HTML" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" />
+  <img alt="HTML" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" />
   </a>
   
   <a>
-  <img alt="CSS" width="80px" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" />
+  <img alt="CSS" width="60px" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" />
   </a>
   
   <a>
-  <img alt="JS" width="80px" src="https://camo.githubusercontent.com/105c631dfb7d8869d63412753f0e3dcb7c0ccd79de15da2409feffc077c7dff0/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f756e6976657273616c6a732f556e6976657273616c4a532e706e67" />
+  <img alt="JS" width="60px" src="https://camo.githubusercontent.com/105c631dfb7d8869d63412753f0e3dcb7c0ccd79de15da2409feffc077c7dff0/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f756e6976657273616c6a732f556e6976657273616c4a532e706e67" />
   </a>
   
   <a>
-  <img alt="REACT" width="65px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
+  <img alt="REACT" width="45px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
   </a>
   
   <a>
-  <img alt="BOOTSTRAP" width="80px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
-  </a>
-  
-  <a>
-  <img alt="R-BOOTSTRAP" width="180px" src="https://bitsrc.imgix.net/3fb49197a90923920dcee2f4f5c36cea2c2a1f73.png?fit=scale&w=185&h=185" />
+  <img alt="BOOTSTRAP" width="60px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
   </a>
 </div>
 
@@ -45,27 +41,27 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
  <div display="flex" align="center" >
   <a>
-    <img alt="POSTMAN" width="80px" src="https://colewbryant.com/img/technologies/postman.png" />
+    <img alt="POSTMAN" width="60px" src="https://colewbryant.com/img/technologies/postman.png" />
   </a>
   
   <a>
-    <img alt="VCODE" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+    <img alt="VCODE" width="60px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
   </a>
   
   <a>
-    <img alt="GITHUB" width="80px" src="https://colewbryant.com/img/technologies/github.png" />
+    <img alt="GITHUB" width="60px" src="https://colewbryant.com/img/technologies/github.png" />
   </a>
   
   <a>
-  <img alt="BULMA" width="80px" src="https://colewbryant.com/img/technologies/bulma.png" />
+  <img alt="BULMA" width="60px" src="https://colewbryant.com/img/technologies/bulma.png" />
 </a>
 
 <a>
-  <img alt="SASS" width="80px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+  <img alt="SASS" width="60px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
 </a>
 
 <a>
-  <img alt="MONGODB" width="80px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
+  <img alt="MONGODB" width="60px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
 </a>
 </div>
 
