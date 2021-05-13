@@ -36,7 +36,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="R-BOOTSTRAP" width="180px" src="http://babeldev.dan.cx/images/users/react-bootstrap.png" />
+  <img alt="R-BOOTSTRAP" width="180px" src="https://bitsrc.imgix.net/3fb49197a90923920dcee2f4f5c36cea2c2a1f73.png?fit=scale&w=185&h=185" />
   </a>
 </div>
 
