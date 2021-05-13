@@ -28,7 +28,10 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <img alt="CSS" width="70px" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" />
   </a>
 
- 
+  <a>
+  <img alt="REACT" width="55px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
+  </a>
+  
   <a>
   <img alt="NODE" width="75px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
   </a>
@@ -37,9 +40,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <img alt="BOOTSTRAP" width="55px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
   </a>
   
-  <a>
-  <img alt="REACT" width="55px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
-  </a>
+ 
   
     
 </div>
