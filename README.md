@@ -16,7 +16,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 <div display="flex" align="center" >
 <a>
-  <img alt="JS" width="80px" src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" />
+  <img alt="JS" width="80px" src="https://raw.githubusercontent.com/jorboare/jorboare/main/public/images/html.web" />
 </a>
 
 <a>
