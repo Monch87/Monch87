@@ -16,7 +16,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 <div display="flex" align="center" >
 <a>
-  <img alt="JS" width="80px" src="https://raw.githubusercontent.com/jorboare/jorboare/main/public/images/html.web" />
+  <img alt="JS" width="80px" src="https://img2.freepng.es/20180526/owx/kisspng-html-computer-icons-web-development-bootstrap-5b0a25293828a9.92335899152739152923.jpg" />
 </a>
 
 <a>
