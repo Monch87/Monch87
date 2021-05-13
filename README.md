@@ -51,7 +51,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-    <img alt="GITHUB" width="60px" src="https://cdn.icon-icons.com/icons2/901/PNG/512/github_icon-icons.com_69253.png />
+    <img alt="GITHUB" width="60px" src="https://cdn.icon-icons.com/icons2/901/PNG/512/github_icon-icons.com_69253.png" />
   </a>
   
   <a>
