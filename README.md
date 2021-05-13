@@ -12,6 +12,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 ## My favourite technologies:
+
 <div display="flex" align="center" >
   <b text-align="center"> HTML | JavaScript | CSS  | React | Node JS | Bootstrap </b> 
   <br>
@@ -38,15 +39,13 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   
   <a>
   <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
-  </a>
-  
- 
-  
-    
+  </a>   
 </div>
 
+
 ## Other knowledge:
- <div display="flex" align="center" >
+
+<div display="flex" align="center" >
   <b text-align="center"> Postman | V-Code | Github | Bulma | Mongo DB | Sass </b> 
   <br>
   
@@ -64,15 +63,15 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   
   <a>
   <img alt="BULMA" width="60px" src="https://colewbryant.com/img/technologies/bulma.png" />
-</a>
+  </a>
 
-<a>
+  <a>
   <img alt="MONGODB" width="60px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
-</a>
+  </a>
 
-<a>
+  <a>
   <img alt="SASS" width="60px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
-</a>
+  </a>
 </div>
 
 <!--
