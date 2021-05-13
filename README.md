@@ -14,6 +14,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## My favourite technologies:
 - :atom: My favourite Technologies: <b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 
+<div display="flex">
 <a>
   <img align="center" alt="JS" width="80px" src="http://www.cursosgis.com/wp-content/uploads/2017/06/lenguajes_1.png" />
 </a>
@@ -22,6 +23,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <img align="center" alt="JS" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 
+</div>
 
 <!--
 **Monch87/Monch87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
