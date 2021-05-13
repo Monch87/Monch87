@@ -32,7 +32,11 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </a>
 
 <a>
-  <img alt="BOOTSTRAP" width="80px" src="https://colewbryant.com/img/technologies/bootstrap.png" />
+  <img alt="BOOTSTRAP" width="80px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+</a>
+
+<a>
+  <img alt="BULMA" width="80px" src="https://colewbryant.com/img/technologies/bulma.png" />
 </a>
 
 <a>
