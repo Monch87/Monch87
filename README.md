@@ -6,17 +6,17 @@
 I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Thanks to my experience in marketing and design in digital environments and in customer habits and behavior, I am able to make a complementary professional contribution in my performance as web development.
 
 
-
-- :atom: My favourite Technologies: <b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 - :computer: I’m currently working on: improving some of my already created projects.
 - :woman_student: I’m currently learning: React | JavaScript | Sass | React Bootstrap.
 
 
 
+## My favourite technologies:
+- :atom: My favourite Technologies: <b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 
-
-
-
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 
 <!--
