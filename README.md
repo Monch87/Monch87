@@ -37,7 +37,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="BOOTSTRAP" width="50px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
+  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
   </a>
   
  
