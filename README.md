@@ -13,7 +13,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 ## My favourite technologies:
 <div display="flex" align="center" >
-  <b text-align="center"> HTML | CSS | JavaScript | React | Bootstrap | Node JS </b> 
+  <b text-align="center"> HTML | JavaScript | CSS  | React | Node JS | Bootstrap </b> 
   <br>
   
   <a>
