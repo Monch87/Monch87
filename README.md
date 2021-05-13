@@ -36,11 +36,12 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="R-BOOTSTRAP" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+  <img alt="R-BOOTSTRAP" width="80px" src="https://bitsrc.imgix.net/3fb49197a90923920dcee2f4f5c36cea2c2a1f73.png?fit=scale&w=185&h=185" />
   </a>
 </div>
 
 ## Other knowledge:
+<b align="center"> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 
  <div display="flex" align="center" >
   <a>
@@ -61,6 +62,10 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 <a>
   <img alt="SASS" width="80px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+</a>
+
+<a>
+  <img alt="MONGODB" width="80px" src="https://code4developers.com/wp-content/uploads/2019/10/MongoDBicon.png />
 </a>
 </div>
 
