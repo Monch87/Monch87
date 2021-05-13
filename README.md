@@ -12,7 +12,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 ## My favourite technologies:
-<b align="center"> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
+<b align="center"> HTML | CSS | JavaScript | React | Bootstrap </b> 
 
 <div display="flex" align="center" >
   <a>
@@ -37,7 +37,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </div>
 
 ## Other knowledge:
-<b align="center"> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
+<b align="center"> Postman | V-Code | Github | Bulma | Sass | Mongo DB </b> 
 
  <div display="flex" align="center" >
   <a>
