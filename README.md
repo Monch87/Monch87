@@ -29,7 +29,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 <a>
-  <img alt="JS" width="80px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
+  <img alt="JS" width="70px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
 </a>
 
 </div>
