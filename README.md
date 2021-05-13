@@ -36,6 +36,11 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <img alt="BOOTSTRAP" width="60px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
   </a>
   
+  
+  <a>
+  <img alt="BOOTSTRAP" width="60px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
+  </a>
+  
   <a>
   <img alt="NODE" width="70px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
   </a>
