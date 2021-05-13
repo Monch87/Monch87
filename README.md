@@ -12,9 +12,8 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 ## My favourite technologies:
-<p text-align="center"> HTML | CSS | JavaScript | React | Bootstrap </p> 
-
 <div display="flex" align="center" >
+  <b text-align="center"> HTML | CSS | JavaScript | React | Bootstrap </b> 
   <a>
   <img alt="HTML" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" />
   </a>
