@@ -37,7 +37,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>](url)
   -->
   <a>
-  <img alt="BOOTSTRAP" width="70px" src="https://www.jamesstone.com/wp-content/uploads/2017/11/Boostrap_logo.svg" />
+  <img alt="BOOTSTRAP" width="70px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
   </a>
   
   <a>
