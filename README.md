@@ -36,8 +36,8 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <img alt="BOOTSTRAP" width="70px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
   </a>
   
-    <a>
-  <img alt="BOOTSTRAP" width="70px" src="https://miro.medium.com/max/800/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg" />
+  <a>
+  <img alt="BOOTSTRAP" width="70px" src="https://www.logo.wine/a/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.svg" />
   </a>
   
   <a>
