@@ -11,8 +11,8 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 
-## My favourite technologies:
-- :atom: My favourite Technologies: <b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
+## My favourite technologies :atom::
+<b> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 
 <div display="flex" align="center" >
 <a>
