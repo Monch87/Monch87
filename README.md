@@ -40,8 +40,23 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 </a>
 
 <a>
-  <img alt="BULMA" width="80px" src="https://colewbryant.com/img/technologies/bulma.png" />
+  <img alt="SASS" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
 </a>
+
+<a>
+  <img alt="R-BOOTSTRAP" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+</a>
+
+<a>
+  <img alt="VCODE" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+</a>
+<a>
+  <img alt="POSTMAN" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+</a>
+<a>
+  <img alt="GITHUB" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+</a>
+
 
 </div>
 
