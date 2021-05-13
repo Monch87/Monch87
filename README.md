@@ -9,7 +9,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 - :computer: I’m currently working on: improving some of my already created projects.
 - :woman_student: I’m currently learning: React | JavaScript | Sass | React Bootstrap.
 
-
+<br>
 
 ## My favourite technologies:
 
