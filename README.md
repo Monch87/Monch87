@@ -15,49 +15,53 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 <b align="center"> HTML | CSS | JavaScript | React | Bootstrap | Bulma | Sass | React Bootstrap </b> 
 
 <div display="flex" align="center" >
-<a>
+  <a>
   <img alt="HTML" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" />
-</a>
+  </a>
   
-<a>
+  <a>
   <img alt="CSS" width="80px" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" />
-</a>
-
-<a>
+  </a>
+  
+  <a>
   <img alt="JS" width="80px" src="https://camo.githubusercontent.com/105c631dfb7d8869d63412753f0e3dcb7c0ccd79de15da2409feffc077c7dff0/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f756e6976657273616c6a732f556e6976657273616c4a532e706e67" />
-</a>
-
-<a>
+  </a>
+  
+  <a>
   <img alt="REACT" width="65px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
-</a>
-
-<a>
+  </a>
+  
+  <a>
   <img alt="BOOTSTRAP" width="80px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" />
-</a>
+  </a>
+  
+  <a>
+  <img alt="R-BOOTSTRAP" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+  </a>
+</div>
 
-<a>
+## Other knowledge:
+
+ <div display="flex" align="center" >
+  <a>
+    <img alt="POSTMAN" width="80px" src="https://colewbryant.com/img/technologies/postman.png" />
+  </a>
+  
+  <a>
+    <img alt="VCODE" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+  </a>
+  
+  <a>
+    <img alt="GITHUB" width="80px" src="https://colewbryant.com/img/technologies/github.png" />
+  </a>
+  
+  <a>
   <img alt="BULMA" width="80px" src="https://colewbryant.com/img/technologies/bulma.png" />
 </a>
 
 <a>
-  <img alt="SASS" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+  <img alt="SASS" width="80px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
 </a>
-
-<a>
-  <img alt="R-BOOTSTRAP" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
-</a>
-
-<a>
-  <img alt="VCODE" width="80px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
-</a>
-<a>
-  <img alt="POSTMAN" width="80px" src="https://colewbryant.com/img/technologies/postman.png" />
-</a>
-<a>
-  <img alt="GITHUB" width="80px" src="https://colewbryant.com/img/technologies/github.png" />
-</a>
-
-
 </div>
 
 <!--
