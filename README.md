@@ -14,7 +14,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## My favourite technologies:
 
 <div display="flex" align="center" >
-  <b text-align="center"> HTML | JavaScript | CSS  | React | Node JS | Bootstrap </b> 
+  <b text-align="center"> HTML | JavaScript | CSS  | React | Bootstrap </b> 
   <br>
   
   <a>
@@ -33,9 +33,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <img alt="REACT" width="55px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
   </a>
   
-  <a>
-  <img alt="NODE" width="75px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
-  </a>
+
   
   <a>
   <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
@@ -46,7 +44,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## Other knowledge:
 
 <div display="flex" align="center" >
-  <b text-align="center"> Postman | V-Code | Github | Bulma | Mongo DB | Sass </b> 
+  <b text-align="center"> Postman | V-Code | Github | Bulma | Sass | Mongo DB | Node JS  </b> 
   <br>
   
   <a>
@@ -66,11 +64,15 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
 
   <a>
+  <img alt="SASS" width="60px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+  </a>
+  
+  <a>
   <img alt="MONGODB" width="60px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
   </a>
-
+  
   <a>
-  <img alt="SASS" width="60px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+  <img alt="NODE" width="75px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
   </a>
 </div>
 
