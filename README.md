@@ -7,14 +7,14 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 
 - :computer: I’m currently working on: improving some of my already created projects.
-- :woman_student: I’m currently learning: React | JavaScript | Sass | React Bootstrap.
+- :woman_student: I’m continue learning: React | JavaScript | Sass | React Bootstrap.
 
 <br>
 
-## My favourite technologies:
+## Skills:
 
 <div display="flex" align="center" >
-  <b text-align="center"> HTML | JavaScript | CSS  | React | Bootstrap </b> 
+  <b text-align="center"> HTML | JavaScript | Bootstrap | CSS  | React </b> 
   <br>
   
   <a>
@@ -26,18 +26,16 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
+  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
+  </a>   
+  
+  <a>
   <img alt="CSS" width="70px" src="https://gremmedia.hu/storage/app/uploads/public/5eb/e9a/f22/5ebe9af2215a9357125656.png" />
   </a>
 
   <a>
   <img alt="REACT" width="55px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
   </a>
-  
-
-  
-  <a>
-  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
-  </a>   
 </div>
 
 
