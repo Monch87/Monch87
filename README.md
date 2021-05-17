@@ -11,7 +11,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
 <br>
 
-## Skills:
+## Strong skills:
 
 <div display="flex" align="center" >
   <b text-align="center"> HTML | JavaScript | Bootstrap | CSS  | React </b> 
