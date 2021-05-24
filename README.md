@@ -3,7 +3,7 @@
 
 
 ## Hi Everybody! 👋  I'm Montse! :woman_technologist:
-I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Thanks to my experience in marketing and design in digital environments and in customer habits and behavior, I am able to make a complementary professional contribution in my performance as web developer.
+I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Thanks to my experience in marketing and design in digital environments and in customer habits and behavior, I am able to make a complementary professional contribution in my performance as a web developer.
 
 
 - :computer: I’m currently working on: improving some of my already created projects.
