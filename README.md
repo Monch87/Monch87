@@ -14,7 +14,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## Skills:
 
 <div display="flex" align="center" >
-  <b text-align="center"> HTML | JavaScript | CSS | React | Vue | V-Code </b> 
+  <b text-align="center"> HTML | JavaScript | V-Code | CSS | React | Vue </b> 
   <br>
   
   <a>
@@ -23,6 +23,10 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   
   <a>
   <img alt="JS" width="70px" src="https://camo.githubusercontent.com/105c631dfb7d8869d63412753f0e3dcb7c0ccd79de15da2409feffc077c7dff0/68747470733a2f2f7261772e6769746875622e636f6d2f766f6f646f6f74696b69676f642f6c6f676f2e6a732f6d61737465722f756e6976657273616c6a732f556e6976657273616c4a532e706e67" />
+  </a>
+  
+  <a>
+  <img alt="VCODE" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
   </a>
   
   <a>
@@ -36,10 +40,6 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
    <a>
   <img alt="VUE" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
   </a> 
-  
-  <a>
-  <img alt="VCODE" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
-  </a>
 </div>
 
 
