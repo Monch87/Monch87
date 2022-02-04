@@ -62,7 +62,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="BULMA" width="60px" src="https://colewbryant.com/img/technologies/bulma.png" />
+  <img alt="GIT" width="60px" src="https://colewbryant.com/img/technologies/bulma.png" />
   </a>
 
   <a>
