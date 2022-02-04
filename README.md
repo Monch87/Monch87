@@ -50,7 +50,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <br>
   
   <a>
-    <img alt="POSTMAN" width="60px" src="https://colewbryant.com/img/technologies/postman.png" />
+    <img alt="POSTMAN" width="60px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
   </a>
   
   <a>
