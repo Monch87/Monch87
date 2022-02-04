@@ -46,16 +46,12 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## Other knowledge:
 
 <div display="flex" align="center" >
-  <b text-align="center"> Postman | Bootstrap | Github | Git | Sass | Mongo DB | Node JS  </b> 
+  <b text-align="center"> Postman | Github | Git | Sass | Mongo DB | Node JS | Bootstrap </b> 
   <br>
   
   <a>
     <img alt="POSTMAN" width="60px" src="https://iconape.com/wp-content/png_logo_vector/postman.png" />
   </a>
-  
-  <a>
-  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
-  </a> 
   
   <a>
     <img alt="GITHUB" width="60px" src="https://cdn.icon-icons.com/icons2/901/PNG/512/github_icon-icons.com_69253.png" />
@@ -76,6 +72,10 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <a>
   <img alt="NODE" width="75px" src="https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png" />
   </a>
+  
+   <a>
+  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
+  </a> 
 </div>
 
 <!--
