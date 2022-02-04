@@ -54,7 +54,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-    <img alt="VCODE" width="60px" src="https://colewbryant.com/img/technologies/visual_studio_code.png" />
+    <img alt="VCODE" width="60px" src="https://c1.klipartz.com/pngpicture/805/69/sticker-png-visual-studio-code-electric-blue-microsoft-visual-studio-atom-source-code-text-editor-brackets-sublime-text-integrated-development-environment-thumbnail.png" />
   </a>
   
   <a>
