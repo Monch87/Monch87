@@ -36,8 +36,8 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   <a>
   <img alt="REACT" width="55px" src="https://miro.medium.com/max/1726/1*BFV8Gwt5BILa-xv04IK2ng.png" />
   </a>
-  
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png
+  ![555px-Vue js_Logo_2 svg](https://user-images.githubusercontent.com/72262776/152519928-1a18f855-5710-4331-9941-bf006ed75e64.png)
+
 </div>
 
 
