@@ -62,7 +62,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="GIT" width="60px" src="https://w1.pngwing.com/pngs/933/874/png-transparent-github-logo-version-control-source-code-branching-repository-code-review-software-repository-commit-thumbnail.png" />
+  <img alt="GIT" width="60px" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" />
   </a>
 
   <a>
