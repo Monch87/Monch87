@@ -14,8 +14,12 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## Skills:
 
 <div display="flex" align="center" >
-  <b text-align="center"> HTML | JavaScript | CSS | React | Vue | Bootstrap  </b> 
+  <b text-align="center"> Bootstrap | HTML | JavaScript | CSS | React | Vue </b> 
   <br>
+  
+  <a>
+  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
+  </a>  
   
   <a>
   <img alt="HTML" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" />
@@ -35,11 +39,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 
    <a>
   <img alt="VUE" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
-  </a>
-  
-   <a>
-  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
-  </a>   
+  </a> 
 </div>
 
 
