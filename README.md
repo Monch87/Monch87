@@ -6,7 +6,7 @@
 I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Thanks to my experience in marketing and design in digital environments and in customer habits and behavior, I am able to make a complementary professional contribution in my performance as a web developer.
 
 
-- :woman_student: I’m continue learning: React | JavaScript | Sass | React Bootstrap | Vue.
+- :woman_student: I’m continue learning: React | JavaScript | Sass | Vue.
 
 <br>
 
