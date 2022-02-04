@@ -14,12 +14,8 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## Skills:
 
 <div display="flex" align="center" >
-  <b text-align="center"> Bootstrap | HTML | JavaScript | CSS | React | Vue </b> 
+  <b text-align="center"> HTML | JavaScript | CSS | React | Vue | V-Code </b> 
   <br>
-  
-  <a>
-  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
-  </a>  
   
   <a>
   <img alt="HTML" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" />
@@ -40,13 +36,17 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
    <a>
   <img alt="VUE" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" />
   </a> 
+  
+  <a>
+  <img alt="VCODE" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
+  </a>
 </div>
 
 
 ## Other knowledge:
 
 <div display="flex" align="center" >
-  <b text-align="center"> Postman | V-Code | Github | Git | Sass | Mongo DB | Node JS  </b> 
+  <b text-align="center"> Postman | Bootstrap | Github | Git | Sass | Mongo DB | Node JS  </b> 
   <br>
   
   <a>
@@ -54,8 +54,8 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-    <img alt="VCODE" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/2056px-Visual_Studio_Code_1.18_icon.svg.png" />
-  </a>
+  <img alt="BOOTSTRAP" width="57px" src="https://developers.institute/wp-content/uploads/2020/05/Bootstrap.png" />
+  </a> 
   
   <a>
     <img alt="GITHUB" width="60px" src="https://cdn.icon-icons.com/icons2/901/PNG/512/github_icon-icons.com_69253.png" />
