@@ -46,7 +46,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
 ## Other knowledge:
 
 <div display="flex" align="center" >
-  <b text-align="center"> Postman | V-Code | Github | Bulma | Sass | Mongo DB | Node JS  </b> 
+  <b text-align="center"> Postman | V-Code | Github | Git | Sass | Mongo DB | Node JS  </b> 
   <br>
   
   <a>
@@ -62,7 +62,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="GIT" width="60px" src="https://colewbryant.com/img/technologies/bulma.png" />
+  <img alt="GIT" width="60px" src="https://img2.freepng.es/20180425/bxe/kisspng-github-repository-version-control-source-code-network-node-5ae13f80e99f63.3541394415247112969569.jpg" />
   </a>
 
   <a>
