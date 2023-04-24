@@ -37,11 +37,11 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a> 
   
   <a>
-  <img alt="ANGULAR" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" />
+  <img alt="ANGULAR" width="63px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" />
   </a> 
  
   <a>
-  <img alt="VCODE" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+  <img alt="VCODE" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
   </a>
 </div>
 
