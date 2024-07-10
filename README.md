@@ -21,7 +21,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="JS" width="70px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
+  <img alt="JS" width="50px" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
   </a>
     
   <a>
