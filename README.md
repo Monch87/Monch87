@@ -69,7 +69,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
   
   <a>
-  <img alt="MONGODB" width="60px" src="https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg" />
+  <img alt="MONGODB" width="60px" src="[https://www.instana.com/media/01_INSTANA_IconSet_MongoDB.svg](https://www.svgrepo.com/show/331488/mongodb.svg)" />
   </a>
   
   <a>
