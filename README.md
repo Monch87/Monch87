@@ -65,7 +65,7 @@ I'm Full stack developer graduated on Web Development at Ironhack-bootcamp. Than
   </a>
 
   <a>
-  <img alt="SASS" width="60px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" />
+  <img alt="SASS" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/free-sass-3521691-2945135.png" />
   </a>
   
   <a>
